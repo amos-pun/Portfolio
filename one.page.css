@@ -11,11 +11,11 @@
 }
 
 .background img{
-    height: 160vh;
+    height: 165vh;
     width: 125vw;
     background-position: center;
     background-size: cover;
-    opacity: 0.7;
+    opacity: 0.85;
     position: relative;
     top: -20%;
     left: -25%;
